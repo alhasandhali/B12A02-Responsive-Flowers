@@ -1,4 +1,6 @@
 /* Common CSS start */
+html,
+body,
 h1,
 h2,
 h3,
@@ -447,6 +449,7 @@ header .header {
 @media screen and (max-width: 576px) {
   .container {
     width: 23rem;
+    margin: 0 auto;
   }
   /* Header Part */
   .header .logo {
