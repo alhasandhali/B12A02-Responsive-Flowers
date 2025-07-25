@@ -103,6 +103,6 @@
 
 ## 🔗 What to Submit
 
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
+- 📂 **GitHub Repository: https://github.com/alhasandhali/B12A02-Responsive-Flowers**
+- 🌐 **Live Link: https://alhasandhali.github.io/B12A02-Responsive-Flowers/**
 
