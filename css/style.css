@@ -412,6 +412,35 @@ header .header {
   padding: 3rem 0;
 }
 
+.footer-text,
+.footer-list,
+.footer-icon {
+  width: 32%;
+}
+
+.footer-part {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-text p {
+  margin-top: 1rem;
+  font-size: 1.375rem;
+}
+
+.footer-list ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.footer-list ul li a:hover {
+  color: #000;
+}
+
+.footer-icon a {
+  margin-right: 2rem;
+}
 /* Footer CSS End */
 
 /* Responsive Code */
