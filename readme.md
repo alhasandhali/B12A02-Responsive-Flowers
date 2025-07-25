@@ -1,16 +1,10 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
-
-### 📅 Deadline For 60 marks: 25th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 50 marks: 26th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks:\*\* Any time after 26th July.
+## 🌟ASSIGNMENT-002 😎
 
 ---
 
-## ✅ Main Requirements (50 Marks)
+## ✅ Main Requirements (Done all)
 
-### 1. Navbar
+### 1. Navbar (Done)
 
 - **Logo/Website name** on the left
 - **Menu items** on the right with **cart icon**
@@ -21,7 +15,7 @@
 
 ---
 
-### 2. Banner
+### 2. Banner (Done)
 
 - **Image** on the right
 - **Title and paragraph** on the left
@@ -32,7 +26,7 @@
 
 ---
 
-### 3. Plants Section
+### 3. Plants Section (Done)
 
 - centered **Title and subtitle** as Figma
 - **8 cards with 4 Collumn View** with image, name, price, and Add to cart button
@@ -41,7 +35,7 @@
 
 ---
 
-### 4. Plants Lover Section
+### 4. Plants Lover Section (Done)
 
 - **Image** on the left
 - **Title and unordered list** on the right as Figma
@@ -52,7 +46,7 @@
 
 ---
 
-### 5. Join Section
+### 5. Join Section (Done)
 
 - centered **Join the colorful Bunch** message
 - **Background image** in the full section like Figma
@@ -61,7 +55,7 @@
 
 ---
 
-### 6. Footer Section
+### 6. Footer Section (Done)
 
 - **Website logo** on the left
 - **Home, features link items** just like Figma
@@ -69,7 +63,7 @@
 
 ---
 
-## 🧪 Challenges Part ( 10 Mark)
+## 🧪 Challenges Part (Done)
 
 ### Latest Deal Section
 
@@ -86,7 +80,7 @@
 
 ---
 
-## 🕛 Optional Part ( 0 Marks)
+## 🕛 Optional Part (Done)
 
 `⚠️ You wont get any support for Optional part. Search Google and try it yourself`
 
@@ -99,15 +93,11 @@
 ## ⚙️ Technology Stack
 
 - HTML
-- CSS (Vanilla/ Talwind CSS only)
-- ⚠️ **No libraries (e.g., DaisyUI, Flowbite) allowed.**
+- CSS (Vanilla only)
 
 ---
 
-## 📌 Rules
-
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
+- ✅ **7 meaningful commits**.
 
 ---
 
@@ -116,6 +106,3 @@
 - 📂 **GitHub Repository:**
 - 🌐 **Live Link:**
 
----
-
-# Let's Code and Achieve your Dream 🎯
