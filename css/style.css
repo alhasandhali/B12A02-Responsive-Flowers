@@ -407,6 +407,13 @@ header .header {
 }
 /* News Letter CSS End */
 
+/* Footer CSS Start */
+.footer-section {
+  padding: 3rem 0;
+}
+
+/* Footer CSS End */
+
 /* Responsive Code */
 @media screen and (max-width: 576px) {
   .container {
@@ -579,7 +586,7 @@ header .header {
   }
 
   .news-sub form input {
-    width: 70%;
+    width: 60%;
   }
 
   .news-sub form button {
