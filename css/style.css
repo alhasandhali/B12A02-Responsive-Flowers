@@ -622,4 +622,29 @@ header .header {
     margin-left: -0.3rem;
     font-size: 0.5rem;
   }
+
+  /* Footer CSS Start */
+  .footer-section {
+    padding: 3rem 0;
+  }
+
+  .footer-text,
+  .footer-list,
+  .footer-icon {
+    width: 100%;
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+  }
+
+  .footer-text p {
+    font-size: 1rem;
+  }
+
+  .footer-part {
+    display: block;
+  }
+
+  .footer-list ul {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
